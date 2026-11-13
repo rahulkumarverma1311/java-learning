@@ -1,4 +1,4 @@
-package oops.inheritance;
+package oops.inheritance.classDemo;
 
 public class ClassDemo {
 
